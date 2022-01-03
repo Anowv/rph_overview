@@ -1,0 +1,2 @@
+var client = ZAFClient.init();
+

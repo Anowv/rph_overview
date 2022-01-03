@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "RPh Overview",
+    "short_description": "Showcases relevant info from SmartScripts Auto comments for the RPh review in CWF5.",
+    "long_description": "Showcases relevant info from SmartScripts Auto comments for the RPh review in CWF5.",
+    "installation_instructions": "Simply click install."
+  }
+}
